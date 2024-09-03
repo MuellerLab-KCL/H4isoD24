@@ -8,4 +8,4 @@ Custom python and MATLAB code used for fitting kinetic models to high-resolution
 
 The data for these analyses can be found in the corresponding data folders.
 
-Instructions for use can be found as comments in the Python files.
+Instructions for use can be found as comments in the scripts.
