@@ -111,6 +111,6 @@ plt.title(('k1 = %.' + str(ci1_digits) + 'f ± %.' + str(ci1_digits) + 'f; k2 = 
            k3_rounded, ci3_rounded, k4_rounded, ci4_rounded))
 
 # Uncomment the following line to output an .eps file of the figure
-plt.savefig('PIMTCascade.eps', format='eps', bbox_inches='tight')
+#plt.savefig('PIMTCascade.eps', format='eps', bbox_inches='tight')
 
 plt.show()
