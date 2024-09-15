@@ -1,0 +1,1 @@
+-Note that duplicate, low-intensity peaks were manually pruned from the assignments returned by the UNIFI analysis - Peaks used can be found in "Analysis of PIMT methylation of peptides.py"
