@@ -1,7 +1,7 @@
 % @author: Luis Guerra (luis.guerra@kcl.ac.uk)
 % 
 % Code used to estimate a limit-of-detection for the Set8/Suv4-20h1
-% methylation cascade on nucleosome arrays with H4isoD24 (Figure S21).
+% methylation cascade on nucleosome arrays with H4isoD24 (Figure S23).
 % 
 % Hard-coded values are taken from the analysis carried out by the
 % python script "Analysis of methylation cascade on 12-mers.py"
