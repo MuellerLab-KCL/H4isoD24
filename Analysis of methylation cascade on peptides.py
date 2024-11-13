@@ -22,12 +22,20 @@ from tkinter import filedialog
 # Function to open the file dialog and get file names
 def open_files():
     # This will open a dialog box allowing multiple file selection. This
-    # script uses .txt representations of deconvoluted MS spectra without
+    # script uses .txt representations of deconvoluted MS spectra with
     # centring as described in the SI
+    
+    root = tk.Tk()
+    root.withdraw()
+    root.update()
+    root.deiconify()
+    
     file_paths = filedialog.askopenfilenames(
         title="Select Files",
         filetypes=[("Text Files", "*.txt")] # Option to select text files
     )
+    
+    root.destroy()
     
     # Return the selected file paths.
     return file_paths
