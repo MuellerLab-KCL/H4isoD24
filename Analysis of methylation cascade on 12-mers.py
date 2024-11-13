@@ -39,7 +39,7 @@ def open_files():
     
     # Return the selected file paths.
     return file_paths
-
+    
 # Initialize empty lists
 times_all = []
 fractionMe0_all = []
