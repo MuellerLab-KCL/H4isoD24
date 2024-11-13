@@ -9,3 +9,5 @@ Custom python and MATLAB code used for fitting kinetic models to high-resolution
 The data for these analyses can be found in the corresponding data folders.
 
 Instructions for use can be found as comments in the scripts.
+
+Note: All python scripts are optimized to run in the Spyder IDE and may require modification to run in other environments or as standalone scripts.
