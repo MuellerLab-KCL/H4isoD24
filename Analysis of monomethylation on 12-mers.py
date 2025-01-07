@@ -152,6 +152,6 @@ plt.title(('k1 = %.' + str(ci1_digits) + 'f ± %.' + str(ci1_digits) + 'f') %
           (k1_rounded, ci1_rounded))
 
 # Uncomment the following line to output an .eps file of the figure
-plt.savefig('Monomethylation.eps', format='eps', bbox_inches='tight')
+#plt.savefig('Monomethylation.eps', format='eps', bbox_inches='tight')
 
 plt.show()
